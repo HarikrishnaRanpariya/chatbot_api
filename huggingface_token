@@ -1,0 +1,3 @@
+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
+
+lsof -t -i tcp:8000 
